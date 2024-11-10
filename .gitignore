@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+.next/
+out/
+dist/
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VSCode settings
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+
+
+# Next.js specific
+.next/cache/
